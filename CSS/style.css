@@ -1,0 +1,27 @@
+body{
+    color:#558502;
+    background-color:#fbfbfb;   
+}
+.container{
+    background-color:#f9f9f9;
+
+}
+.btn{
+   background-color:#915a33;
+   color:#f9f9f9;
+}
+a{
+    text-decoration:none;
+    color: inherit;
+}
+.btn:hover{
+    background-color:#558502;
+    color:#f9f9f9;
+}
+a:hover{
+    text-decoration:underline;
+    color:#915a33;
+}
+span{
+    color: #915a33;
+}
